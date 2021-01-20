@@ -17,8 +17,7 @@ A Flutter app based on the design of the News App, created by *Achmad Rizki Nur 
 
 ## API
 Register to newsapi.org and get the apiKey
-and then change APIKEY to your apiKey
 ```
-var response = await client.get('http://newsapi.org/v2/everything?domains=wsj.com&apiKey=APIKEY');
+var response = await client.get('http://newsapi.org/v2/everything?domains=wsj.com&apiKey=USEYOURAPIKEYHERE');
 ```
 
