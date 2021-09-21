@@ -7,6 +7,10 @@ A Flutter app based on the design of the News App, created by *Achmad Rizki Nur 
 - API (Live Data)
 - Splash Screen Animation , and a lot of more..
 
+## Plugins
+- cupertino_icons: ^1.0.0
+- http: ^0.12.2
+
 ## Getting Started 🚀
 
 ```shell
